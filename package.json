@@ -1,8 +1,8 @@
 {
   "private": true,
-  "name": "slides-topic",
+  "name": "slides-pet-projects-ukrainian",
   "version": "0.0.0",
-  "description": "Slides for my talk about Topic",
+  "description": "Slides for my talk about pet-projects in Ukrainian",
   "main": "index.html",
   "scripts": {
     "start": "http-server"
